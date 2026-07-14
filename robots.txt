@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://longevitymethod.com/sitemap.xml
+Sitemap: https://longevity-method.net/sitemap.xml
